@@ -1,1 +1,8 @@
-/Users/phuha/Desktop/phuservices/customer/src/main/java/com/phuha/customer/CustomerApplication.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/CustomerConfig.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/CustomerRegistrationRequest.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/CustomerService.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/FraudCheckResponse.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/CustomerController.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/CustomerApplication.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/Customer.java
+/Users/phuha/Desktop/java_projects/microservices_tutorial/phuservices/customer/src/main/java/com/phuha/customer/CustomerRepository.java

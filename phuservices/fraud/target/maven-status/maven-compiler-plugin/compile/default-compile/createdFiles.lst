@@ -1,0 +1,7 @@
+com/phuha/fraud/FraudCheckHistory.class
+com/phuha/fraud/FraudCheckService.class
+com/phuha/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/phuha/fraud/FraudCheckResponse.class
+com/phuha/fraud/FraudApplication.class
+com/phuha/fraud/FraudController.class
+com/phuha/fraud/FraudCheckHistoryRepository.class

@@ -1,1 +1,9 @@
+com/phuha/customer/CustomerConfig.class
+com/phuha/customer/CustomerService.class
+com/phuha/customer/FraudCheckResponse.class
+com/phuha/customer/Customer.class
+com/phuha/customer/CustomerRegistrationRequest.class
+com/phuha/customer/Customer$CustomerBuilder.class
 com/phuha/customer/CustomerApplication.class
+com/phuha/customer/CustomerController.class
+com/phuha/customer/CustomerRepository.class
